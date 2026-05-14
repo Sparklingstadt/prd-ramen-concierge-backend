@@ -1,0 +1,2 @@
+class RamenLog < ApplicationRecord
+end

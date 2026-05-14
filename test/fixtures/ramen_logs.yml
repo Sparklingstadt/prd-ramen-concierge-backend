@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  soup_type: MyString
+  topping: MyString
+  noodle_size: MyString
+
+two:
+  soup_type: MyString
+  topping: MyString
+  noodle_size: MyString
