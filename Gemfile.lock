@@ -81,7 +81,7 @@ GEM
     bigdecimal (4.1.2)
     bootsnap (1.24.4)
       msgpack (~> 1.2)
-    brakeman (8.0.4)
+    brakeman (8.1.0)
       racc
     builder (3.3.0)
     bundler-audit (0.9.3)
@@ -169,7 +169,8 @@ GEM
       net-ssh (>= 5.0.0, < 8.0.0)
     net-smtp (0.5.1)
       net-protocol
-    net-ssh (7.3.2)
+    net-ssh (7.3.8)
+      logger
     nio4r (2.7.5)
     nokogiri (1.19.4-aarch64-linux-gnu)
       racc (~> 1.4)
@@ -207,7 +208,7 @@ GEM
       nio4r (~> 2.0)
     raabro (1.4.0)
     racc (1.8.1)
-    rack (3.2.6)
+    rack (3.2.8)
     rack-cors (3.0.0)
       logger
       rack (>= 3.0.14)
